@@ -21,5 +21,9 @@ Additionally, I am a Software Engineer intern.
 
 - Machine Learning
 - Image Processing
-- Sinal Processing 
+- Sinal Processing
+
+## 🚀 Currently Projects
+- **Vem Comigo**: I'm currently working on the development of "Vem Comigo," an app for my university
+
 
