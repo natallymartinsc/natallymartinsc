@@ -13,10 +13,6 @@ Additionally, I am a Software Engineer intern.
 - Innovation and Technology
 - Interdisciplinary Projects
 
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/natallymartins)
-
 ## 💻 Currently Learning
 
 - Machine Learning
