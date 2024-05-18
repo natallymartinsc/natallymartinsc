@@ -11,7 +11,6 @@ Additionally, I am a Software Engineer intern.
 - Biomedical Informatics
 - Software Development
 - Innovation and Technology
-- Interdisciplinary Projects
 
 ## 💻 Currently Learning
 
