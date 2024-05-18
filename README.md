@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello! I'm Nátally 👋
 
-<!--
-**natallymartinsc/natallymartinsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Informatics student at UFCSPA who believes in the power of technology to solve complex challenges and bring real benefits to society. I am passionate about technology and challenges. I have always been curious and fascinated by science and innovation, which drives me to continuously challenge myself and seek to learn more from experienced individuals, new technologies, and trends.
 
-Here are some ideas to get you started:
+Over the years, I have been involved in interdisciplinary projects that merge biology and technology, looking for innovative solutions to problems that can achieve better outcomes through technology. I am excited to see where my passion for science and computing will take me in the future, and I am determined to embrace new challenges and keep evolving in the tech field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Additionally, I am a Software Engineer intern.
+
+## 🧠 Areas of Interest
+
+- Biomedical Informatics
+- Software Development
+- Innovation and Technology
+- Interdisciplinary Projects
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/natallymartins)
+
+## 💻 Currently Learning
+
+- Machine Learning
+- Image Processing
+- Sinal Processing 
+
