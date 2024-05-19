@@ -21,4 +21,6 @@ Additionally, I am a Software Engineer intern.
 ## 🚀 Currently Projects
 - **Vem Comigo**: I'm currently working on the development of "Vem Comigo," an app for my university
 
+![Nátally's GitHub stats](https://github-readme-stats.vercel.app/api?username=natallymartinsc&theme=dracula&show_icons=true)
+
 
