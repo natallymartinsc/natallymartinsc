@@ -4,12 +4,13 @@ I'm a Biomedical Informatics student at UFCSPA. I'm passionate about technology 
 
 Over the years, I have been involved in interdisciplinary projects that merge biology and technology, looking for innovative solutions to problems that can achieve better outcomes through technology. I am excited to see where my passion for science and computing will take me in the future, and I am determined to embrace new challenges and keep evolving in the tech field.
 
-Additionally, I am a Software Engineer intern.
+Additionally, I am a Software Engineer intern. 
 
 ## 🧠 Areas of Interest
 
 - Biomedical Informatics
 - Software Development
+- Machine Learning
 - Innovation and Technology
 
 ## 💻 Currently Learning
