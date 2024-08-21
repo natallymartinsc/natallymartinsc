@@ -12,6 +12,7 @@ Additionally, I am a Software Engineer intern.
 - Software Development
 - Machine Learning
 - Innovation and Technology
+- Biomedical Imaging
 
 ## 💻 Currently Learning
 
