@@ -12,13 +12,15 @@ Additionally, I am a Software Engineer intern.
 - Software Development
 - Machine Learning
 - Innovation and Technology
-- Biomedical Imaging
+- Diagnostic Imaging
 
 ## 💻 Currently Learning
 
 - Machine Learning
 - Image Processing
 - Sinal Processing
+- Diagnostic Imaging
+- Biinformatics
 
 ## 🚀 Currently Projects
 - **Vem Comigo**: I'm currently working on the development of "Vem Comigo," an app for my university
