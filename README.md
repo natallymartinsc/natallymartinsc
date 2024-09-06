@@ -20,7 +20,7 @@ Additionally, I am a Software Engineer intern.
 - Image Processing
 - Sinal Processing
 - Diagnostic Imaging
-- Biinformatics
+- Bioinformatics
 
 ## 🚀 Currently Projects
 - **Vem Comigo**: I'm currently working on the development of "Vem Comigo," an app for my university
